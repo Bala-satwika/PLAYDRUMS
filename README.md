@@ -1,11 +1,11 @@
-# Web Drum Kit
+# Drum Kit
 
-Welcome to the Web Drum Kit project! This is a simple web page that allows users to play virtual drums using both keyboard keys and mouse clicks.
+Welcome to the Drum Kit project! This is a simple web page that allows users to play virtual drums using both keyboard keys and mouse clicks.
 Each drum corresponds to a specific key on the keyboard, and users can also click on the drum images to produce drum sounds.
 
 ## Demo
 
-You can see a live demo of the project [here](https://your-demo-link.com).
+You can see a live demo of the project [here](https://bala-satwika.github.io/PLAYDRUMS/).
 
 ## Features
 
