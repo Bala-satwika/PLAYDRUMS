@@ -21,3 +21,7 @@ You can see a live demo of the project [here](https://bala-satwika.github.io/PLA
 - JavaScript: Adding interactivity and handling user actions.
 - Audio files: Sound effects for each drum.
 
+## Acknowledgements
+Drum sounds ,Drum kit images sourced from Udemy.
+
+
